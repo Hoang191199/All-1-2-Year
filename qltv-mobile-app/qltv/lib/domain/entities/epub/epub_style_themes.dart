@@ -1,0 +1,4 @@
+enum EpubStyleThemes {
+  light,
+  dark,
+}

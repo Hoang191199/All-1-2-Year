@@ -1,0 +1,11 @@
+/* 
+  Info Plist.strings
+  Runner
+
+  Created by DEV on 16/08/2023.
+  
+*/
+"CFBundleDisplayName"="mobiEdu Kids";
+"NSCameraUsageDescription"="Ứng dụng cần truy cập vào máy ảnh khi thay đổi ảnh đại diện hoặc tạo bài viết";
+"NSMicrophoneUsageDescription"="Ứng dụng cần truy cập vào Mic để nhâpj thông tin bằng giọng nói";
+"NSPhotoLibraryUsageDescription"="Ứng dụng cần truy cập vào máy ảnh khi thay đổi ảnh đại diện hoặc tạo bài viết";

@@ -1,0 +1,13 @@
+/* 
+  InfoPlist.Strings
+  Runner
+
+  Created by INET on 6/5/23.
+  
+*/
+/* (No Comment) */
+"CFBundleName" = "QLTV";
+
+/* (No Comment)  */
+"NSPhotoLibraryUsageDescription" = "App funny.";
+"NSCameraUsageDescription" = "App image";

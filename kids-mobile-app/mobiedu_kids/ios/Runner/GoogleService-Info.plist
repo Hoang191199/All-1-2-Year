@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>877744797979-ufvle6e9hohe1eio8gkcg2aeepn3duqv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.877744797979-ufvle6e9hohe1eio8gkcg2aeepn3duqv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB4MV-2bS9Ck7MAjj4Dm_TD9BSqjIEXyBc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>877744797979</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kids.mobiedu.vn</string>
+	<key>PROJECT_ID</key>
+	<string>mobiedu-kids</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mobiedu-kids.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:877744797979:ios:b4684571fc803a4a997bbe</string>
+	<key>DATABASE_URL</key>
+	<string>https://mobiedu-kids-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

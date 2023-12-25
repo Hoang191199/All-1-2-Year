@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "920999848118",
+    "project_id": "mooc-fbapp",
+    "storage_bucket": "mooc-fbapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920999848118:android:df55d0c5e94dccd44f1e17",
+        "android_client_info": {
+          "package_name": "com.inet.education.mooc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920999848118-bqdfbd3hf4hmef1usci8kaa4cjd5a84f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6fRYFj8ulcxHCYHzQaxvIgPd_v3OuEFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920999848118-bqdfbd3hf4hmef1usci8kaa4cjd5a84f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "920999848118-tnufq1mlumb20o1vqo8te97u0j859llq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inet.education.mooc"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

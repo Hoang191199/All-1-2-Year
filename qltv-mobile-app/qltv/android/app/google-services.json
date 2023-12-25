@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "210960833972",
+    "project_id": "qltv-997d9",
+    "storage_bucket": "qltv-997d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:210960833972:android:082bf9663625fbd39526e1",
+        "android_client_info": {
+          "package_name": "com.inet.qltv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "210960833972-33h933j106fm6fmm0ose96lqa2mnp219.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6MZYu-sRuWyzrz2164l3VxZgkiwuLB5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "210960833972-33h933j106fm6fmm0ose96lqa2mnp219.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

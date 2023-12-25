@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "877744797979",
+    "firebase_url": "https://mobiedu-kids-default-rtdb.firebaseio.com",
+    "project_id": "mobiedu-kids",
+    "storage_bucket": "mobiedu-kids.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877744797979:android:03f0b4d2672a3d7e997bbe",
+        "android_client_info": {
+          "package_name": "com.mascom.kids_edu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877744797979-s4a7ghisb89o3mrhtg2o0tamgo8ekvh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEJdmSEagbXHhb7bUzYqcHM5F3jZm8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877744797979-s4a7ghisb89o3mrhtg2o0tamgo8ekvh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877744797979-od088rocfg3beiud1rsuk097ovhhai2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noga.mascom.inetsll"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877744797979:android:2b927586456786b3997bbe",
+        "android_client_info": {
+          "package_name": "com.mascom.sll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877744797979-s4a7ghisb89o3mrhtg2o0tamgo8ekvh6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsEJdmSEagbXHhb7bUzYqcHM5F3jZm8TA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877744797979-s4a7ghisb89o3mrhtg2o0tamgo8ekvh6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877744797979-od088rocfg3beiud1rsuk097ovhhai2u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.noga.mascom.inetsll"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
